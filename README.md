@@ -10,7 +10,9 @@
 I am a Data Analyst at OMES, focusing on optimizing data pipelines and crafting innovative data-driven solutions.
 
 🔭 Currently working on: Enhancing data pipelines and data integrity at an enterprise level. 
+
 🌱 Currently learning: Automated Data Science, machine learning, and big data technologies.
+
 👯 Looking to collaborate on: Data analytics and machine learning projects.
 💬 Ask me about: Python, R, SQL, data wrangling, and data visualization.
 📫 How to reach me: Email me at sirideva4@gmail.com or connect on LinkedIn.
