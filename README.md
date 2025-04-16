@@ -6,7 +6,6 @@
 - ✉️ sirideva4@gmail.com
 
 ## About me ##
----
 I am a Data Analyst at OMES, focusing on optimizing data pipelines and crafting innovative data-driven solutions.
 
 🔭 Currently working on: Enhancing data pipelines and data integrity at an enterprise level. <br/>
