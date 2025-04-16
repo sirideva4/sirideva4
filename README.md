@@ -33,8 +33,6 @@ B.Tech. in Computer Science and Engineering, JNTU Kakinada (May 2021)
 
 🚀 Key Projects
 ---
-Credit Risk Scoring System – Developed a machine learning model to predict loan default risk using historical data.
-
-Financial Data Automation Pipeline – Designed an ETL pipeline to streamline financial reporting using SQL and GCP.
-
-Sales Performance Dashboard – Visualized sales KPIs and trends using SQL and Tableau to support data-driven decisions.
+Credit Risk Scoring System – Developed a machine learning model to predict loan default risk using historical data.  <br/>
+Financial Data Automation Pipeline – Designed an ETL pipeline to streamline financial reporting using SQL and GCP. <br/>
+Sales Performance Dashboard – Visualized sales KPIs and trends using SQL and Tableau to support data-driven decisions.  <br/>
