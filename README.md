@@ -14,14 +14,19 @@ I am a Data Analyst at OMES, focusing on optimizing data pipelines and crafting 
 🌱 Currently learning: Automated Data Science, machine learning, and big data technologies.
 
 👯 Looking to collaborate on: Data analytics and machine learning projects.
+
 💬 Ask me about: Python, R, SQL, data wrangling, and data visualization.
+
 📫 How to reach me: Email me at sirideva4@gmail.com or connect on LinkedIn.
+
 😄 Pronouns: She/Her
+
 ⚡ Fun fact: I enjoy solving complex data problems and reading fictional novels
 
 🎓 Education
 ---
 M.Sc. in Data Science, CU Boulder (Dec 2022)
+
 B.Tech. in Computer Science and Engineering, JNTU Kakinada (May 2021)
 
 💻 Experience Highlights
@@ -35,5 +40,7 @@ B.Tech. in Computer Science and Engineering, JNTU Kakinada (May 2021)
 🚀 Key Projects
 ---
 Credit Risk Scoring System – Developed a machine learning model to predict loan default risk using historical data.
+
 Financial Data Automation Pipeline – Designed an ETL pipeline to streamline financial reporting using SQL and GCP.
+
 Sales Performance Dashboard – Visualized sales KPIs and trends using SQL and Tableau to support data-driven decisions.
